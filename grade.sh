@@ -7,6 +7,7 @@
 dir=$1
 
 # Print csv header
+echo "Year, 2026"
 echo "Student,Grade"
 
 # Initialize grades list used to compute mean value
