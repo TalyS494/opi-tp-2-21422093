@@ -1,3 +1,5 @@
+
+
 #!/bin/bash
 #
 # AUTHOR: Mathieu MONEYRON - 2026
@@ -16,8 +18,6 @@ grades=""
 for f in $dir/*; do
 	points=0
 	total=0
-
-echo "Teacher, Mathieu Moneyron"
 
 	# Get the grade for each question, which is a list like "1/1 1/2"
 	questions=$(grep -e "^E[0-9]*\.[0-9]*:" < "$f" | awk '{print $2}')
@@ -54,3 +54,6 @@ mean=$(echo "scale=2; ($sum) / $num" | bc -l)
 
 echo "Number of students,$num"
 echo "Mean,$mean"
+
+
+echo "Teacher, Mathieu Moneyron"
