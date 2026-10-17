@@ -16,6 +16,8 @@ for f in $dir/*; do
 	points=0
 	total=0
 
+echo "Teacher, Mathieu Moneyron"
+
 	# Get the grade for each question, which is a list like "1/1 1/2"
 	questions=$(grep -e "^E[0-9]*\.[0-9]*:" < "$f" | awk '{print $2}')
 	# Extract student name from file name
