@@ -10,8 +10,8 @@
 dir=$1
 
 # Print csv header
-echo "Year, 2026"
-echo "Student,Grade"
+echo "Année, 2026"
+echo "Elève,Note"
 
 # Initialize grades list used to compute mean value
 grades=""
@@ -53,8 +53,8 @@ num=$(ls $dir/* | wc -l)
 sum=$(echo $grades | sed "s/ /+/")
 mean=$(echo "scale=2; ($sum) / $num" | bc -l)
 
-echo "Number of students,$num"
-echo "Mean,$mean"
+echo "Nombre d'élèves,$num"
+echo "Moyenne,$mean"
 
 
-echo "Teacher, Mathieu Moneyron"
+echo "Professeur, Mathieu Moneyron"
