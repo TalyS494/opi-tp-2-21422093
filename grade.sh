@@ -1,9 +1,10 @@
-
+'
 
 #!/bin/bash
 #
 # AUTHOR: Mathieu MONEYRON - 2026
 # AUTHOR: Elias SYAD - 2026
+# Author : Georges ATTARD  - 2026
 # LICENCE: GPL-2.0
 
 [ $# -eq 0 ] && echo Please provide a directory with grade files && exit 1
@@ -12,6 +13,8 @@ dir=$1
 # Print csv header
 echo "Année, 2026"
 echo "Elève,Note"
+echo "Etudiant,Grade"
+
 
 # Initialize grades list used to compute mean value
 grades=""
@@ -55,6 +58,8 @@ mean=$(echo "scale=2; ($sum) / $num" | bc -l)
 
 echo "Nombre d'élèves,$num"
 echo "Moyenne,$mean"
-
-
 echo "Professeur, Mathieu Moneyron"
+echo "Nombre de d'étudiant,$num"
+echo "Moyenne,$mean"
+echo "Enseignant, Mathieu Moneyron"
+
