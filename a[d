@@ -1,0 +1,76 @@
+[33mcommit fe00def3c5d63e044a5eb0bf7e04756177c1e589[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: b2c633e f07c152
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sun Oct 25 17:47:35 2026 +0100
+
+    Merge branch 'Binome2'
+
+[33mcommit f07c1528fb676e5b800953fff5db491bb34753e7[m[33m ([m[1;32mBinome2[m[33m)[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sun Oct 25 17:46:47 2026 +0100
+
+    Traduction en français du Binome2
+
+[33mcommit 0e1ae62f4977f068acb3c4e9be9c7f872eeda672[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sun Oct 25 17:39:06 2026 +0100
+
+    Ajout de l'auteur Binome2
+
+[33mcommit b2c633ef5aee3c6f2b5add40045106f116afbd9d[m[33m ([m[1;31morigin1/main[m[33m)[m
+Merge: 01040e3 f01a09d
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sun Oct 25 17:28:42 2026 +0100
+
+    Merge branch 'Georges'
+    
+    Merge de la premiere personne du binome
+
+[33mcommit f01a09decf15b4e1ae3bbc67a42e2b0caa5d0e3c[m[33m ([m[1;32mGeorges[m[33m)[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 24 17:28:54 2026 +0200
+
+    Traduction en français
+
+[33mcommit 8ebfbf6e40a883fb2562a8313eefc20f76f55d8e[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 24 17:26:12 2026 +0200
+
+    Ajout de l'auteur Georges ATTARD
+
+[33mcommit 01040e3583186d2bc0091878ccd14e2f351d51b3[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 18:59:27 2026 +0200
+
+    correction de lerreur de ma part au niveau l emplacement du echo "Teacher, Mathieu Moneyron"
+
+[33mcommit 2b121773f265e838804f3ed078258bf3c279a1e2[m
+Merge: 7147af9 9efd5e2
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 18:43:55 2026 +0200
+
+    Merge branch 'ma-branche'
+
+[33mcommit 7147af9beb98cef2bece097ba0f8f067d2ab8a21[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 18:30:48 2026 +0200
+
+    ajout de echo "Teacher, Mahtieu Moneyron"
+
+[33mcommit 9efd5e247668b680d516ae901e3f1025045d34ea[m[33m ([m[1;32mma-branche[m[33m)[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 18:25:24 2026 +0200
+
+    ajout de echo "Year, 2026"
+
+[33mcommit 069e3ebb19deb370672918da29950d4af5b1b04e[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 17:59:18 2026 +0200
+
+    correction de la date
+
+[33mcommit a6a2bdfc4ee862ca004a4561f7fc83e55b53ec56[m
+Author: Georges Attard <georges.attard@etu.sorbonne-universite.fr>
+Date:   Sat Oct 17 17:46:49 2026 +0200
+
+    ajout du script
